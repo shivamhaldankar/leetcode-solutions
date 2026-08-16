@@ -1,30 +1,24 @@
+#include <stack>
+using namespace std;
 class Solution {
 public:
     int longestValidParentheses(string s) {
-        int n = s.size();
         stack<int> st;
-        for(int i = 0; i<n; i++){
-            if(s[i]=='('){
+        st.push(-1);
+        int maxlength = 0;
+        for (int i = 0; i < s.length(); i++) {
+            if (s[i] == '(') {
                 st.push(i);
-            }
-            else {
-                if(!st.empty()){
-                    if(s[st.top()]=='(')
-                        st.pop();
-                    else st.push(i);
+            } else {
+                st.pop();
+
+                if (st.empty()) {
+                    st.push(i);
+                } else {
+                    maxlength = max(maxlength, i - st.top());
                 }
-                else st.push(i);
             }
         }
-        if(st.empty())return n;
-        int ans = 0;           int end = n-1;
-        while(!st.empty()){
-            int t = st.top();st.pop();
- 
-            ans = max(end - t, ans);
-            end = t-1;
-        }
-        ans = max(ans, end+1);
-        return ans;
+        return maxlength;
     }
 };
