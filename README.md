@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0035-search-insert-position) |
 ## Binary Search
 |  |
@@ -18,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0007-reverse-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
