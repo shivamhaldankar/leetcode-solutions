@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0066-plus-one) |
 ## Binary Search
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
 | ------- |
