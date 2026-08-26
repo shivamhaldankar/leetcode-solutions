@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0070-climbing-stairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0069-sqrtx) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
