@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0118-pascals-triangle) |
 ## Memoization
 |  |
 | ------- |
