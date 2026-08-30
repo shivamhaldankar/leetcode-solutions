@@ -22,12 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0058-length-of-last-word](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0065-valid-number) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0069-sqrtx) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Stack
 |  |
