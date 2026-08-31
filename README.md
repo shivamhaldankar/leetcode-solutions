@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
+| [1470-shuffle-the-array](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
