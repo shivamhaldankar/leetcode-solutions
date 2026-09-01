@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/1470-shuffle-the-array) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1929-concatenation-of-array](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
