@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
+| [0136-single-number](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0136-single-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0645-set-mismatch) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0645-set-mismatch) |
 ## Hash Table
 |  |
