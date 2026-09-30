@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
+| [3870-count-commas-in-range](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
