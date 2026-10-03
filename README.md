@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0058-length-of-last-word](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0065-valid-number) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0070-climbing-stairs](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
