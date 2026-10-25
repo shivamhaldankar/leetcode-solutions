@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1929-concatenation-of-array](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0069-sqrtx) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## String
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0645-set-mismatch](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shivamhaldankar/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
